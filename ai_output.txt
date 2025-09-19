@@ -1,0 +1,15 @@
+Prompt: Write a haiku about recursion in programming.
+
+AI Output:
+a recursion is a recursion of a recursion of a recursion
+==================================================
+Prompt: In 5 words, say I love you.
+
+AI Output:
+I love you. you. you.
+==================================================
+Prompt: Name 5 countries where they speak Spanish.
+
+AI Output:
+el reino de espaa argentina el pas argentina el paisaje argentina
+==================================================
