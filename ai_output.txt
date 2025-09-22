@@ -1,15 +1,38 @@
-Prompt: Write a haiku about recursion in programming.
+Prompt: Pretend you are a simple weather predictor. For autumn, give tomorrow’s weather in one short sentence including temperature range in Celsius and condition (e.g., rain, sunny, cloudy).
 
 AI Output:
-a recursion is a recursion of a recursion of a recursion
+Tomorrow’s weather: cool (10–15°C), cloudy skies, and light rainfall.
 ==================================================
-Prompt: In 5 words, say I love you.
+Prompt: Here is my to-do list:
+    1. Finish report (due Friday)
+    2. Buy groceries
+    3. Call mom (birthday tomorrow)
+    4. Book dentist appointment
+    Reorder strictly from most urgent (soonest due or time-sensitive) to least urgent.
 
 AI Output:
-I love you. you. you.
+1. Call mom (birthday tomorrow)
+2. Finish report (due Friday)
+3. Buy groceries
+4. Book dentist appointment
 ==================================================
-Prompt: Name 5 countries where they speak Spanish.
+Prompt: Here is a list of movies:
+The Matrix - sci-fi
+Inception - sci-fi
+The Notebook - romance
+Shrek - comedy
+The Godfather - crime
+Toy Story - animation
+Superbad - comedy
+Finding Nemo - animation
+
+Recommend exactly one comedy movie by name.
 
 AI Output:
-el reino de espaa argentina el pas argentina el paisaje argentina
+Shrek - comedy
+==================================================
+Prompt: Convert these Celsius temperatures to Fahrenheit using the formula F = (C × 9/5) + 32: 0, 20, 37, 100
+
+AI Output:
+9.0°C = 48.2°F; 5.0°C = 41.0°F; 32.0°C = 89.6°F; 0.0°C = 32.0°F; 20.0°C = 68.0°F; 37.0°C = 98.6°F; 100.0°C = 212.0°F
 ==================================================
