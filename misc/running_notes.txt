@@ -1,0 +1,19 @@
+___Enter into commandline___
+
+cd Independent-Study
+
+.venv\Scripts\activate
+
+python ai_llama.py
+
+
+
+
+
+__Git Bash__
+
+* when secret or rejected, remove previous commit *
+* Make sure your back-up your repo somewhere else first then copy paste *
+* Sorry don't know git good *
+
+-- git reset --hard HEAD~1
